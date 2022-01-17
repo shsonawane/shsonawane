@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **JavaScript, NodeJS, ReactJS, GatsbyJS, AWS and Java**
 
-- 📫 How to reach me **sonawane.sh@northeastern.edu**
+- 📫 How to reach me **shubhamsonawane009@gmail.com, sonawane.sh@northeastern.edu**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/shsonawane/](https://www.linkedin.com/in/shsonawane/)
 
