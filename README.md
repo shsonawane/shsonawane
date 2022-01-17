@@ -3,8 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shsonawane&label=Profile%20views&color=0e75b6&style=flat" alt="shsonawane" /> </p>
 
+<!--
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shsonawane" alt="shsonawane" /></a> </p>
 
+-->
 - 🔭 I’m currently working on [Neural Circuit Tracer](https://www.ccs.neu.edu/home/mirek/Projects/NCTracerWeb/index.htm)
 
 - 🌱 I’m currently learning **Flutter, FastAPI and Kubernetes**
