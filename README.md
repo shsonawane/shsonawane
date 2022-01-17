@@ -22,6 +22,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to code with empathy?](https://medium.com/geekculture/how-to-code-with-empathy-b1f231cb34c9?source=rss-2d2362d2e71c------2)
+- [Soft deletes are tedious! Does an ideal deletion without loss even exist?](https://medium.com/geekculture/soft-deletes-are-tedious-does-an-ideal-deletion-without-loss-even-exist-9cc5d78e9b10?source=rss-2d2362d2e71c------2)
+- [Having trouble keeping up with your SQL-NoSQL data sources? PartiQL for rescue!](https://medium.com/geekculture/having-trouble-keeping-up-with-your-sql-nosql-data-sources-partiql-for-rescue-c52b6c0e337e?source=rss-2d2362d2e71c------2)
+- [Microservices may not be the silver bullet agile developers were hoping it to be](https://shsonawane.medium.com/microservices-may-not-be-the-silver-bullet-agile-developers-were-hoping-it-to-be-5dcfcce8a498?source=rss-2d2362d2e71c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
