@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [https://shsonawane.medium.com/](https://shsonawane.medium.com/)
 
-- 💬 Ask me about **JavaScript, NodeJS, ReactJS, GatsbyJS, AWS and Java**
+- 💬 Ask me about **JavaScript, TypeScript, NodeJS, ReactJS, GatsbyJS, AWS and Java**
 
 - 📫 How to reach me **shubhamsonawane009@gmail.com**
 
