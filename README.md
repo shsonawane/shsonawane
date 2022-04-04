@@ -10,7 +10,7 @@
 -->
 - 🔭 I’m currently working on [Neural Circuit Tracer](https://www.ccs.neu.edu/home/mirek/Projects/NCTracerWeb/index.htm)
 
-- 🌱 I’m currently learning **Flutter, FastAPI and Kubernetes**
+- 🌱 I’m currently learning **Flutter, IOS, FastAPI and Kubernetes**
 
 - 📝 I regularly write articles on [https://shsonawane.medium.com/](https://shsonawane.medium.com/)
 
