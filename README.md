@@ -10,7 +10,7 @@
 -->
 - 🔭 I’m currently working on [Neural Circuit Tracer](https://www.ccs.neu.edu/home/mirek/Projects/NCTracerWeb/index.htm)
 
-- 🌱 I’m currently learning **gRPC, GoLang and Kubernetes**
+- 🌱 I’m currently learning **gRPC, Squid, GoLang and Kubernetes**
 
 - 📝 I regularly write articles on [https://shsonawane.medium.com/](https://shsonawane.medium.com/)
 
