@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shsonawane" alt="shsonawane" /></a> </p>
 
 -->
-- 🔭 I’m currently working on [Automated Reproducibilty for Software with External Dependencies]()
+- 🔭 I’m currently working on **Automated Reproducibilty for Software with External Dependencies**
 
 - 🌱 I’m currently learning **gRPC, Squid, GoLang and Kubernetes**
 
