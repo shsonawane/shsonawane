@@ -8,9 +8,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shsonawane" alt="shsonawane" /></a> </p>
 
 -->
-- 🔭 I’m currently working on **Automated Reproducibilty for Software with External Dependencies**
+- 🔭 I’m currently working on **Automated Reproducibility for Software with External Dependencies**
 
-- 🌱 I’m currently learning **gRPC, Squid, GoLang and Kubernetes**
+- 🌱 I’m currently learning **gRPC, GoLang and Kubernetes**
 
 - 📝 I regularly write articles on [https://shsonawane.medium.com/](https://shsonawane.medium.com/)
 
